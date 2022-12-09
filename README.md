@@ -1,41 +1,41 @@
 # 3612Assignment3
 
-/api/paintings
+https://aquamarine-blush-gargoyleosaurus.glitch.me/paintings
 
-/api/painting/433
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/433
 
-/api/painting/43374534856
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/43374534856
 
-/api/painting/gallery/7
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/gallery/7
 
-/api/painting/gallery/43374534856
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/gallery/43374534856
 
-/api/painting/artist/106
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/artist/106
 
-/api/painting/artist/43374534856
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/artist/43374534856
 
-/api/painting/year/1850/1900
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/year/1850/1900
 
-/api/painting/year/2200/2400
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/year/2200/2400
 
-/api/painting/title/self
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/title/self
 
-/api/painting/title/dfjkghdfkgh
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/title/dfjkghdfkgh
 
-/api/painting/color/NAPA
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/color/NAPA
 
-/api/painting/color/coffee%20bean
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/color/coffee%20bean
 
-/api/painting/color/kcvhvxchbkcj
+https://aquamarine-blush-gargoyleosaurus.glitch.me/painting/color/kcvhvxchbkcj
 
-/api/artists
+https://aquamarine-blush-gargoyleosaurus.glitch.me/artists
 
-/api/artists/Netherlands
+https://aquamarine-blush-gargoyleosaurus.glitch.me/artists/Netherlands
 
-/api/artists/sdfjjsdf
+https://aquamarine-blush-gargoyleosaurus.glitch.me/artists/sdfjjsdf
 
-/api/galleries
+https://aquamarine-blush-gargoyleosaurus.glitch.me/galleries
 
-/api/galleries/france
+https://aquamarine-blush-gargoyleosaurus.glitch.me/galleries/france
 
-/api/galleries/kcvhvxchbkcj
+https://aquamarine-blush-gargoyleosaurus.glitch.me/galleries/kcvhvxchbkcj
